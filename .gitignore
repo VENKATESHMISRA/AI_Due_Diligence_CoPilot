@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Chroma Database
+vectorstore/chroma_db/
+
+# HuggingFace Cache
+hf_cache/
+
+# Uploaded PDFs
+uploads/
+
+# Generated Reports
+reports/generated_reports/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
