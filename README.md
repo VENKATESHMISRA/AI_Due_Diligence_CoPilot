@@ -111,7 +111,7 @@ AI-Due-Diligence-Copilot/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Due-Diligence-Copilot.git
+git clone https://github.com/VENKATESHMISRA/AI_Due_Diligence_CoPilot
 
 cd AI-Due-Diligence-Copilot
 ```
